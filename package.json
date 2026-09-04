@@ -11,7 +11,7 @@
     "start": "node server.ts",
     "dev": "node --watch server.ts"
   },
-  "dependencies" : {
+  "dependencies": {
     "express": "^5.2.1"
   },
   "devDependencies": {
